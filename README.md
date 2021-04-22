@@ -2,10 +2,7 @@
 
 **Hexo plugin to generate index pages from custom front matter variables.**
 
----
-This project is a fork from [hexo-index-anything](https://github.com/leviwheatcroft/hexo-index-anything) by Levi Wheatcroft, who is no longer maintaining the project. I have refactored the code and introduced some new features ... see below.
-
----
+> :information_source: This project is a fork from [hexo-index-anything](https://github.com/leviwheatcroft/hexo-index-anything) by Levi Wheatcroft, who is no longer maintaining the project. I have refactored the code and introduced some new features ... see below.
 
 ## Introduction
 
