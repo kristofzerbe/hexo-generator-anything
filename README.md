@@ -1,3 +1,4 @@
+![GitHub package.json version](https://img.shields.io/github/package-json/v/kristofzerbe/hexo-generator-anything?label=version&style=flat-square)
 ![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-generator-anything?label=github%20issues&style=flat-square)
 ![npm](https://img.shields.io/npm/dm/hexo-generator-anything?label=npm%20downloads&style=flat-square)
 
