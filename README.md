@@ -101,10 +101,11 @@ For generating the INDEX page, you can enrich the information about each author 
 To stay with the example above, we have in index called ``authors`` and two keys: ``maria`` and ``jonas``:
 
 ``` txt
-|- sources
-|  |- anything
-|  |  |-> maria.md
-|  |  |-> jonas.md 
+|- source
+|  |- _anything
+|  |  |- authors
+|  |  |  |-> maria.md
+|  |  |  |-> jonas.md 
 ```
 
 Each of these files has to have at least one Frontmatter variable called ``title``, where you can overwrite the default key string (value of the index variable in the posts). You can extend the Frontmatter with as many variables as you want and use it in your INDEX EJS template.
@@ -125,12 +126,14 @@ Maria is writer of the month. Don't miss her tweets on [https://twitter.com/mari
 
 The INDEX page itself, may have a linked Markdown file too, to provide content or additional data:
 
-``` txt
-|- sources
-|  |- anything
-|  |  |-> index.md
-|  |  |-> ...
+```txt
+|- source
+|  |- _anything
+|  |  |- authors
+|  |  |  |-> index.md
+|  |  |  |-> ...
 ```
+
 
 ## Usage
 
