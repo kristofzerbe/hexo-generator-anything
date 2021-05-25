@@ -134,6 +134,7 @@ The INDEX page itself, may have a linked Markdown file too, to provide content o
 |  |  |  |-> ...
 ```
 
+
 ## Usage
 
 Install, configure, then run `hexo generate` as usual.
