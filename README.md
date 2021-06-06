@@ -1,6 +1,7 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/kristofzerbe/hexo-generator-anything?label=version&style=flat-square)
-![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-generator-anything?label=github%20issues&style=flat-square)
-![npm](https://img.shields.io/npm/dm/hexo-generator-anything?label=npm%20downloads&style=flat-square)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/kristofzerbe/hexo-generator-anything?label=version&style=flat-square)](https://github.com/kristofzerbe/hexo-generator-anything/blob/main/package.json)
+[![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-generator-anything?label=github%20issues&style=flat-square)](https://github.com/kristofzerbe/hexo-generator-anything/issues)
+[![npm](https://img.shields.io/npm/dm/hexo-generator-anything?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/hexo-generator-anything)
+[![Open Source Insights](https://kiko.io/images/insights-logo.png)](https://deps.dev/npm/hexo-generator-anything)
 
 # hexo-generator-anything
 
