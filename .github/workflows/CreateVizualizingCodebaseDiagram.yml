@@ -1,4 +1,4 @@
-name: Create diagram
+name: Create Vizualizing Codebase Diagram
 on:
   workflow_dispatch: {}
   push:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       - name: Update diagram
         uses: kristofzerbe/hexo-generator-anything@main
         with:
