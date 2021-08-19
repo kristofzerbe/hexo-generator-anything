@@ -8,9 +8,9 @@ jobs:
   get_data:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout
-      - name: Update diagram
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Update Diagram
         uses: kristofzerbe/hexo-generator-anything@main
         with:
           excluded_paths: "ignore,.github"
