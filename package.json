@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-anything",
-  "version": "1.0.9",
+  "version": "1.0.7",
   "description": "Hexo plugin to generate index pages from custom front matter variables",
   "main": "index.js",
   "directories": {
@@ -27,9 +27,9 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "humanize-string": "^2.1.0",
-    "hexo-util": "^2.7.0",
+    "hexo-util": "^2.5.0",
     "hexo-fs": "^3.1.0",
-    "hexo-front-matter": "^4.0.0",
-    "hexo-log": "^4.0.1"
+    "hexo-front-matter": "^2.0.0",
+    "hexo-log": "^2.0.0"
   }
 }
