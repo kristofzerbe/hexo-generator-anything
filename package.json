@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-anything",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Hexo plugin to generate index pages from custom front matter variables",
   "main": "index.js",
   "directories": {
@@ -24,12 +24,15 @@
   "homepage": "https://github.com/kristofzerbe/hexo-generator-anything#readme",
   "deprecated": false,
   "dependencies": {
-    "lodash": "^4.17.15",
-    "moment": "^2.24.0",
-    "humanize-string": "^2.1.0",
-    "hexo-util": "^2.5.0",
-    "hexo-fs": "^3.1.0",
-    "hexo-front-matter": "^2.0.0",
-    "hexo-log": "^2.0.0"
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "humanize-string": "^3.0.0",
+    "hexo-util": "^3.0.1",
+    "hexo-fs": "^4.1.1",
+    "hexo-front-matter": "^4.0.0",
+    "hexo-log": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
