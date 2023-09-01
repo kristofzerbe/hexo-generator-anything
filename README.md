@@ -2,7 +2,7 @@
 [![issues](https://img.shields.io/github/issues/kristofzerbe/hexo-generator-anything?label=github%20issues&style=flat-square)](https://github.com/kristofzerbe/hexo-generator-anything/issues)
 [![npm](https://img.shields.io/npm/dm/hexo-generator-anything?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/hexo-generator-anything)
 
-# hexo-generator-anything
+# Hexo Generator Anything
 
 **Hexo plugin to generate index pages from custom front matter variables.**
 
